@@ -6,7 +6,7 @@ let gravity = 5;
 let jump = -100;
 let bgImg;
 let font;
-let timer = 20;
+let timer = 120;
 let started = false;
 let gameOver = false;
 let winner;
