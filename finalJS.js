@@ -58,7 +58,7 @@ class Fighter {
             
 
         } else {
-            this.keys = [37,39,38,40,45];
+            this.keys = [37,39,38,40,191];
             this.color = "blue";
             this.health_coord = [775, 60, .2];
             
